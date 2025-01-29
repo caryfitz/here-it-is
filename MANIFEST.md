@@ -8,5 +8,6 @@
 | Number | Maker             | Date           | Recipient        | Customizations | Story |
 | ------ | -----             | -----          | ---------        | -------------- | ------ |
 | 1      | Cary FitzGerald   | August 2024    | Milton at the Y  | None           | Irrepressible |
-| 1      | Cary FitzGerald   | August 2024    | Daniel on Hillsborough | None           | See you Thursday! |
-| 2-15   | Cary FitzGerald   | December 2024 | Boelyn art fest   | -              | -        |
+| 2      | Cary FitzGerald   | August 2024    | Daniel on Hillsborough | None           | See you Thursday! |
+| 3      | Cary FitzGerald   | January 2024 | Gifted to Turk at the Y   | -              | -        |
+| 4      | Cary FitzGerald   | January 2024 | Gifted to Mike K.  | -              | -        |
